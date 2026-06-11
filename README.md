@@ -30,10 +30,12 @@ Tableau Development
 - Dynamic calculations
 - Custom KPI metrics
 - Brand lift calculations
+
 Dashboard Design
 - Designed dashboard layout using Figma
 - Applied business-focused information hierarchy
 - Optimized executive reporting experience
+
 Tools Used
 - SQL
 - Tableau Desktop

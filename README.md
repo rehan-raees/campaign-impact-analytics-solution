@@ -24,6 +24,7 @@ Data Engineering
 - Developed a master SQL query generating multiple reporting outputs in a single execution
 - Standardized reporting structure for dashboard consumption
 - Reduced repetitive query execution
+
 Tableau Development
 - Interactive parameter selection
 - Dynamic calculations

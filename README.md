@@ -43,4 +43,6 @@ Tools Used
 - Figma
 - Excel
 
+# Data Privacy
+All brands, platforms, markets, and business identifiers have been anonymized. Data values have been modified for portfolio demonstration purposes.
 

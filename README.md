@@ -48,6 +48,25 @@ All brands, platforms, markets, and business identifiers have been anonymized. D
 
 Data was sourced from Ads Data Hub (ADH), transformed through a centralized SQL-based data preparation workflow, and visualized in Tableau using custom calculations, parameters, and interactive dashboard components.
 
+## My Contributions
+
+- Designed dashboard wireframes using Figma
+- Developed an automated reporting workflow
+- Built a master SQL query to consolidate multiple reporting outputs
+- Created parameter-driven analysis in Tableau
+- Developed custom calculated fields and KPI logic
+- Designed an executive-friendly dashboard experience
+
+## Skills Demonstrated
+
+- Tableau
+- SQL
+- Ads Data Hub (ADH)
+- Dashboard Design
+- Data Visualization
+- Reporting Automation
+- Business Analytics
+
 ## Solution Architecture
 
 ![Architecture](dashboard_design/adh_to_dashboard_architecture.png)

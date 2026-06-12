@@ -45,5 +45,6 @@ Tools Used
 
 # Data Privacy
 All brands, platforms, markets, and business identifiers have been anonymized. Data values have been modified for portfolio demonstration purposes.
+
 Data was sourced from Ads Data Hub (ADH), transformed through a centralized SQL-based data preparation workflow, and visualized in Tableau using custom calculations, parameters, and interactive dashboard components.
 

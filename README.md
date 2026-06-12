@@ -21,7 +21,7 @@ Designed and developed a reporting workflow consisting of:
 - Executive-ready visualization design
 # Key Features
 Data Engineering
-- Developed a master SQL query generating multiple reporting outputs in a single execution
+- Developed a centralized data preparation workflow that consolidated multiple reporting outputs into a single execution, reducing repetitive processing and improving reporting efficiency.
 - Standardized reporting structure for dashboard consumption
 - Reduced repetitive query execution
 

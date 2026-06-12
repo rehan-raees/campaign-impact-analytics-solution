@@ -1,9 +1,11 @@
 # campaign-impact-analytics-solution
-End-to-end analytics project combining data engineering, dashboard design, and Tableau development to deliver scalable campaign impact measurement and actionable insights.
+End-to-end campaign impact analytics solution built using ADH, SQL, Tableau, and Figma to measure brand lift and audience impact.
 # Brand Lift Measurement & Insights Dashboard
 Overview
 Developed an end-to-end analytics solution to measure campaign impact using exposed and control audience survey responses.
 The solution automates data preparation, enables dynamic audience comparison, and provides actionable insights through an interactive Tableau dashboard.
+Consolidated multiple reporting outputs into a single workflow, reducing repetitive processing and improving reporting efficiency.
+
 # Business Problem
 Campaign measurement reporting required multiple manual data extraction and transformation steps before analysis.
 The objective was to create a scalable reporting solution capable of:
@@ -15,7 +17,6 @@ The objective was to create a scalable reporting solution capable of:
 Designed and developed a reporting workflow consisting of:
 - SQL-based data preparation
 - Automated output generation
-- Tableau data modeling
 - Dynamic dashboard interactions
 - Parameter-driven comparisons
 - Executive-ready visualization design

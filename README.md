@@ -50,7 +50,7 @@ Data was sourced from Ads Data Hub (ADH), transformed through a centralized SQL-
 
 ## Solution Architecture
 
-![Architecture](design/architecture.png)
+![Architecture](Dashboard and Design/adh_to_dashboard_architecture.png)
 
 ## Live Dashboard
 

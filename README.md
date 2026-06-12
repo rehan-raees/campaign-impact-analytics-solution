@@ -48,3 +48,9 @@ All brands, platforms, markets, and business identifiers have been anonymized. D
 
 Data was sourced from Ads Data Hub (ADH), transformed through a centralized SQL-based data preparation workflow, and visualized in Tableau using custom calculations, parameters, and interactive dashboard components.
 
+## Live Dashboard
+
+View the dashboard on Tableau Public:
+
+[View Dashboard](PASTE_LINK_HERE)
+
